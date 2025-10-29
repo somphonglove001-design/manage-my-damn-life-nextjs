@@ -40,3 +40,4 @@ As of now, it only supports basic authentication, and not OAUTH.
 ## Getting Started
 
 To get started, you can checkout full documentation [here](https://manage-my-damn-life-nextjs.readthedocs.io/en/latest/install/).
+c++
